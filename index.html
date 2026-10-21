@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Crosses</title>
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <style>
+        html, body {
+            margin: 0;
+            height: 100%;
+            background: #000;
+            overflow: hidden;
+            font-family: sans-serif;
+        }
+
+        #game {
+            width: 100%;
+            height: 100%;
+        }
+
+        /* The game draws the original mouse pointer sprite itself */
+        #game canvas {
+            cursor: none;
+        }
+
+        #settings {
+            position: fixed;
+            top: 8px;
+            right: 8px;
+            z-index: 10;
+            color: #9cc;
+            font-size: 14px;
+            text-align: right;
+        }
+
+        #settings-toggle {
+            background: none;
+            border: none;
+            color: #366;
+            cursor: pointer;
+        }
+
+        #settings-toggle:hover {
+            color: #9cc;
+        }
+
+        #settings-panel {
+            margin-top: 4px;
+            padding: 10px 12px;
+            background: rgba(0, 20, 30, 0.9);
+            border: 1px solid #366;
+            text-align: left;
+        }
+
+        #settings-panel label {
+            display: block;
+            margin: 4px 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="game"></div>
+
+    <div id="settings">
+        <button id="settings-toggle" title="Settings">
+            <!-- "sliders" icon: three lines with a knob each -->
+            <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="2" y1="5" x2="20" y2="5" />
+                <line x1="2" y1="11" x2="20" y2="11" />
+                <line x1="2" y1="17" x2="20" y2="17" />
+                <circle cx="7" cy="5" r="2.5" fill="#000" />
+                <circle cx="15" cy="11" r="2.5" fill="#000" />
+                <circle cx="9" cy="17" r="2.5" fill="#000" />
+            </svg>
+        </button>
+        <div id="settings-panel" hidden>
+            <label>
+                Size
+                <select id="setting-size"></select>
+            </label>
+            <label>
+                <input type="checkbox" id="setting-smoothing">
+                Smooth pixels
+            </label>
+            <label>
+                <input type="checkbox" id="setting-crt">
+                CRT monitor
+            </label>
+            <label>
+                <input type="checkbox" id="setting-music">
+                Music
+            </label>
+        </div>
+    </div>
+
+    <script type="module" src="/src/main.js"></script>
+</body>
+</html>

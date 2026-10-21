@@ -1,0 +1,8 @@
+node_modules/
+dist/
+public/vendor/
+.playwright-mcp/
+
+# Personal hiscores of the original DOS version
+crosgame/hiscore.crs
+crosgame/sicher/hiscore.crs

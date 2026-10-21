@@ -1,0 +1,1784 @@
+[
+ {
+  "tile": 1,
+  "time": 15,
+  "password": "",
+  "board": [
+   "...........",
+   "...........",
+   "...........",
+   ".....X.....",
+   "...........",
+   "...X.X.X...",
+   "...........",
+   ".....X.....",
+   "...........",
+   "...........",
+   "..........."
+  ]
+ },
+ {
+  "tile": 2,
+  "time": 15,
+  "password": "",
+  "board": [
+   "...........",
+   "...........",
+   "...........",
+   "....X.X....",
+   "...XXXXX...",
+   "....XXX....",
+   "...XXXXX...",
+   "....X.X....",
+   "...........",
+   "...........",
+   "..........."
+  ]
+ },
+ {
+  "tile": 3,
+  "time": 20,
+  "password": "",
+  "board": [
+   "...........",
+   "...........",
+   "...........",
+   "..X..X..X..",
+   ".X.X...X.X.",
+   ".XX..X..XX.",
+   ".X.X...X.X.",
+   "..X..X..X..",
+   "...........",
+   "...........",
+   "..........."
+  ]
+ },
+ {
+  "tile": 4,
+  "time": 20,
+  "password": "",
+  "board": [
+   "...........",
+   ".....X.....",
+   "....XXX....",
+   "....XXX....",
+   "..XXXXXXX..",
+   ".XXXXXXXXX.",
+   "..XXXXXXX..",
+   "....XXX....",
+   "....XXX....",
+   ".....X.....",
+   "..........."
+  ]
+ },
+ {
+  "tile": 5,
+  "time": 20,
+  "password": "EASYWAY",
+  "board": [
+   "...........",
+   "...........",
+   "....X..X...",
+   "...XX..XX..",
+   ".....XX....",
+   "....X..X...",
+   ".....XX....",
+   "...XX..XX..",
+   "....X..X...",
+   "...........",
+   "..........."
+  ]
+ },
+ {
+  "tile": 6,
+  "time": 25,
+  "password": "",
+  "board": [
+   ".....X.....",
+   "...XX.XX...",
+   ".....X.....",
+   "..X..X..X..",
+   "X.XX...XX.X",
+   "..X.....X..",
+   "X.XX...XX.X",
+   "..X..X..X..",
+   ".....X.....",
+   "...XX.XX...",
+   ".....X....."
+  ]
+ },
+ {
+  "tile": 7,
+  "time": 30,
+  "password": "",
+  "board": [
+   "X.X.....X.X",
+   "...X...X...",
+   ".XX.....XX.",
+   "X....X....X",
+   ".X.......X.",
+   "XX.X.X.X.XX",
+   ".X.......X.",
+   "X....X....X",
+   ".XX.....XX.",
+   "...X...X...",
+   "X.X.....X.X"
+  ]
+ },
+ {
+  "tile": 8,
+  "time": 25,
+  "password": "",
+  "board": [
+   ".X..X.X..X.",
+   "XX..XXX..XX",
+   "XX..XXX..XX",
+   "XX..XXX..XX",
+   "XX..XXX..XX",
+   "XX..XXX..XX",
+   "XX..XXX..XX",
+   "XX..XXX..XX",
+   "XX..XXX..XX",
+   "XX..XXX..XX",
+   ".X..X.X..X."
+  ]
+ },
+ {
+  "tile": 1,
+  "time": 45,
+  "password": "",
+  "board": [
+   "..XX..XX..X",
+   "XX..XX..XX.",
+   ".XX..XX..XX",
+   "X..XX..XX..",
+   ".XX..XX..XX",
+   "XX..XX..XX.",
+   "..XX..XX..X",
+   "XX..XX..XX.",
+   ".XX..XX..XX",
+   "X..XX..XX..",
+   ".XX..XX..XX"
+  ]
+ },
+ {
+  "tile": 2,
+  "time": 40,
+  "password": "CHAKOTAY",
+  "board": [
+   "X.........X",
+   ".X.......X.",
+   "..X.X.X.X..",
+   "...........",
+   "..XX...XX..",
+   ".XX.X.X.XX.",
+   "..XX...XX..",
+   "...........",
+   "..X.X.X.X..",
+   ".X.......X.",
+   "X.........X"
+  ]
+ },
+ {
+  "tile": 3,
+  "time": 20,
+  "password": "",
+  "board": [
+   "...........",
+   "...........",
+   "...X...X...",
+   "..XX...XX..",
+   "....XXX....",
+   "....XXX....",
+   "....XXX....",
+   "..XX...XX..",
+   "...X...X...",
+   "...........",
+   "..........."
+  ]
+ },
+ {
+  "tile": 4,
+  "time": 40,
+  "password": "",
+  "board": [
+   "..X.....X..",
+   ".X...X...X.",
+   "X.X.X.X.X.X",
+   "...X...X...",
+   "..X..X..X..",
+   ".X..X.X..X.",
+   "..X..X..X..",
+   "...X...X...",
+   "X.X.X.X.X.X",
+   ".X...X...X.",
+   "..X.....X.."
+  ]
+ },
+ {
+  "tile": 5,
+  "time": 45,
+  "password": "",
+  "board": [
+   "X.........X",
+   ".X.......X.",
+   "..X..X.XX..",
+   "...X....X..",
+   ".....XXX...",
+   "..X.X.XX...",
+   "....XXX....",
+   "..X.XX.X...",
+   "..XX....X..",
+   ".X.......X.",
+   "X.........X"
+  ]
+ },
+ {
+  "tile": 6,
+  "time": 30,
+  "password": "",
+  "board": [
+   "XXX.....XXX",
+   "XX.......XX",
+   "X.XX...XX.X",
+   "..X.....X..",
+   ".....X.....",
+   "....XXX....",
+   "....X.X....",
+   "...XXXXX...",
+   "...XX.XX...",
+   "...X.X.X...",
+   "...X.X.X..."
+  ]
+ },
+ {
+  "tile": 7,
+  "time": 55,
+  "password": "GREENY",
+  "board": [
+   "..X.X.X.X..",
+   "..X.X.X.X..",
+   "XX.X...X.XX",
+   "..XX.X.XX..",
+   "XX.XX.XX.XX",
+   ".XX..X..XX.",
+   "XX.XX.XX.XX",
+   "..XX.X.XX..",
+   "XX.X...X.XX",
+   "..X.X.X.X..",
+   "..X.X.X.X.."
+  ]
+ },
+ {
+  "tile": 8,
+  "time": 35,
+  "password": "",
+  "board": [
+   ".XXXXXXXXX.",
+   "XXXXXXXXXXX",
+   "...........",
+   "X.X.X.X.X.X",
+   "X.X.X.X.X.X",
+   "...........",
+   "X.X.X.X.X.X",
+   "X.X.X.X.X.X",
+   "...........",
+   "XXXXXXXXXXX",
+   ".XXXXXXXXX."
+  ]
+ },
+ {
+  "tile": 1,
+  "time": 25,
+  "password": "",
+  "board": [
+   "....X.X....",
+   "...X...X...",
+   "...XX.XX...",
+   "...........",
+   "..XX...XX..",
+   "...XX.XX...",
+   "...XX.XX...",
+   "...........",
+   "....X.X....",
+   "..XX...XX..",
+   "...X...X..."
+  ]
+ },
+ {
+  "tile": 2,
+  "time": 50,
+  "password": "",
+  "board": [
+   "XXXXXXXXXXX",
+   "X.XXXXXXX.X",
+   "XX.......XX",
+   "XX.......XX",
+   "XX.......XX",
+   "XX.......XX",
+   "XX.......XX",
+   "XX.......XX",
+   "XX.......XX",
+   "X.XXXXXXX.X",
+   "XXXXXXXXXXX"
+  ]
+ },
+ {
+  "tile": 3,
+  "time": 45,
+  "password": "",
+  "board": [
+   "...X.X.X...",
+   "..XX.X.XX..",
+   ".X.......X.",
+   "XX.X.X.X.XX",
+   "...........",
+   "XX.X.X.X.XX",
+   "...........",
+   "XX.X.X.X.XX",
+   ".X.......X.",
+   "..XX.X.XX..",
+   "...X.X.X..."
+  ]
+ },
+ {
+  "tile": 4,
+  "time": 70,
+  "password": "TIMELESS",
+  "board": [
+   "X.X.X.X.X.X",
+   "XXX.XXX.XXX",
+   "XXX.XXX.XXX",
+   "XXX.X.X.XXX",
+   "XXXXX.XXXXX",
+   "XX..XXX..XX",
+   "XXXXX.XXXXX",
+   "XXX.X.X.XXX",
+   "XXX.XXX.XXX",
+   "XXX.XXX.XXX",
+   "X.X.X.X.X.X"
+  ]
+ },
+ {
+  "tile": 5,
+  "time": 40,
+  "password": "",
+  "board": [
+   ".XXXXXXXXX.",
+   "...........",
+   ".XXXXXXXXX.",
+   "...........",
+   ".XXXXXXXXX.",
+   "...........",
+   ".XXXXXXXXX.",
+   "...........",
+   ".XXXXXXXXX.",
+   "...........",
+   ".XXXXXXXXX."
+  ]
+ },
+ {
+  "tile": 6,
+  "time": 35,
+  "password": "",
+  "board": [
+   "X.X.X.X.X.X",
+   "...........",
+   "X.X.X.X.X.X",
+   "...........",
+   "X.X.X.X.X.X",
+   "X.X.X.X.X.X",
+   "X.X.X.X.X.X",
+   "X.X.X.X.X.X",
+   "X.X.X.X.X.X",
+   "X.X.X.X.X.X",
+   "X.X.X.X.X.X"
+  ]
+ },
+ {
+  "tile": 7,
+  "time": 60,
+  "password": "",
+  "board": [
+   "..XXX.XXX..",
+   ".X.......X.",
+   "X..X...X..X",
+   "X.XX.X.XX.X",
+   "X...XXX...X",
+   "...XX.XX...",
+   "X...XXX...X",
+   "X.XX.X.XX.X",
+   "X..X...X..X",
+   ".X.......X.",
+   "..XXX.XXX.."
+  ]
+ },
+ {
+  "tile": 8,
+  "time": 50,
+  "password": "",
+  "board": [
+   ".....X.....",
+   "....X.X....",
+   "...XX.XX...",
+   "..XX...XX..",
+   ".XX.XXX.XX.",
+   "X...X.X...X",
+   ".XX.XXX.XX.",
+   "..XX...XX..",
+   "...XX.XX...",
+   "....X.X....",
+   ".....X....."
+  ]
+ },
+ {
+  "tile": 2,
+  "time": 30,
+  "password": "SPIRALIC",
+  "board": [
+   "XXXXXXXXXXX",
+   "X.........X",
+   "X.XXXXXXX.X",
+   "X.X.....X.X",
+   "X.X.XXX.X.X",
+   "X.X.XXX.X.X",
+   "X.X.X...X.X",
+   "X.X.X...X.X",
+   "X.X.XXXXX.X",
+   "X.X.......X",
+   "..XXXXXXXXX"
+  ]
+ },
+ {
+  "tile": 3,
+  "time": 15,
+  "password": "",
+  "board": [
+   "XX.........",
+   "....X......",
+   "X.XX.X.....",
+   ".....X.....",
+   ".....XX....",
+   "....XXXXXXX",
+   "......XX.X.",
+   "........XXX",
+   "...........",
+   "...........",
+   "..........."
+  ]
+ },
+ {
+  "tile": 4,
+  "time": 20,
+  "password": "",
+  "board": [
+   ".....X.....",
+   "....XXX....",
+   "....XXX....",
+   "...XXXXX...",
+   "...........",
+   "...........",
+   "...XX.XX...",
+   "...XXXXX...",
+   "..X.X.X.X..",
+   ".....X.....",
+   "...X.X.X..."
+  ]
+ },
+ {
+  "tile": 5,
+  "time": 35,
+  "password": "",
+  "board": [
+   ".X.......X.",
+   "X.XX...XX.X",
+   ".X.......X.",
+   "XX..X.X..XX",
+   ".X.XX.XX.X.",
+   "XX.......XX",
+   ".X.XX.XX.X.",
+   "XX..X.X..XX",
+   ".X.......X.",
+   "X.XX...XX.X",
+   ".X.......X."
+  ]
+ },
+ {
+  "tile": 6,
+  "time": 30,
+  "password": "",
+  "board": [
+   "........X..",
+   ".......XXXX",
+   ".......XX.X",
+   ".....XX.XX.",
+   "....XXXXXX.",
+   "....XX.XX..",
+   "..XX.XX....",
+   ".XXXXXX....",
+   ".XX.XX.....",
+   "X.XX.......",
+   ".XXX......."
+  ]
+ },
+ {
+  "tile": 7,
+  "time": 30,
+  "password": "HUMANITY",
+  "board": [
+   "...........",
+   "...........",
+   "...........",
+   "....XX.....",
+   "...X..X....",
+   "....XX.....",
+   "....XX.....",
+   "...........",
+   "..X....X...",
+   ".X......X..",
+   "X..X..X..X."
+  ]
+ },
+ {
+  "tile": 8,
+  "time": 35,
+  "password": "",
+  "board": [
+   "...X.X.X...",
+   "....XXX....",
+   "...XX.XX...",
+   "...........",
+   ".XX.X.X.XX.",
+   "...........",
+   ".XX.X.X.XX.",
+   "...........",
+   "...XX.XX...",
+   "....XXX....",
+   "...X.X.X..."
+  ]
+ },
+ {
+  "tile": 1,
+  "time": 50,
+  "password": "",
+  "board": [
+   "X.XX...XX.X",
+   "..X.....X..",
+   "XX.X.X.X.XX",
+   "X.XX.X.XX.X",
+   ".....X.....",
+   "..XXX.XXX..",
+   ".....X.....",
+   "X.XX.X.XX.X",
+   "XX.X.X.X.XX",
+   "..X.....X..",
+   "X.XX...XX.X"
+  ]
+ },
+ {
+  "tile": 2,
+  "time": 55,
+  "password": "",
+  "board": [
+   "X...X.X...X",
+   ".X..XXX..X.",
+   "..X.XXX.X..",
+   "...XXXXX...",
+   "...........",
+   "....XXX....",
+   "...........",
+   "..XX...XX..",
+   "....X.X....",
+   "X..X...X..X",
+   "X.X.....X.X"
+  ]
+ },
+ {
+  "tile": 3,
+  "time": 30,
+  "password": "",
+  "board": [
+   "X...X...X..",
+   ".XXXXXXXXX.",
+   "..X...X...X",
+   "..X...X...X",
+   "...........",
+   "...........",
+   "...........",
+   "X...X...X..",
+   "X...X...X..",
+   ".XXXXXXXXX.",
+   "..X...X...X"
+  ]
+ },
+ {
+  "tile": 4,
+  "time": 40,
+  "password": "REMOVEIT",
+  "board": [
+   "XX..XXX..XX",
+   "X.X..X..X.X",
+   ".XXX.X.XXX.",
+   "..X.XXX.X..",
+   "X..X.X.X..X",
+   "XXXXX.XXXXX",
+   "X..X.X.X..X",
+   "..X.XXX.X..",
+   ".XXX.X.XXX.",
+   "X.X..X..X.X",
+   "XX..XXX..XX"
+  ]
+ },
+ {
+  "tile": 5,
+  "time": 35,
+  "password": "",
+  "board": [
+   ".....X.....",
+   "...XX.XX...",
+   "....XXX....",
+   "...XX.XX...",
+   "....XXX....",
+   "...XX.XX...",
+   ".....X.....",
+   "....XXX....",
+   "...XXXXX...",
+   "...........",
+   "....X.X...."
+  ]
+ },
+ {
+  "tile": 6,
+  "time": 25,
+  "password": "",
+  "board": [
+   "X.........X",
+   ".X.......X.",
+   "..X.....X..",
+   "...XXXXX...",
+   "...X.X.X...",
+   "...XX.XX...",
+   "...X.X.X...",
+   "...XXXXX...",
+   "..X.....X..",
+   ".X.......X.",
+   "X.........X"
+  ]
+ },
+ {
+  "tile": 7,
+  "time": 55,
+  "password": "",
+  "board": [
+   ".X.X.X.X.X.",
+   "XX.X.X.X.XX",
+   "...X.X.X...",
+   "XXX.....XXX",
+   "...X.X.X...",
+   "XX.X.X.X.XX",
+   "...X.X.X...",
+   "XXX.....XXX",
+   "...X.X.X...",
+   "XX.X.X.X.XX",
+   ".X.X.X.X.X."
+  ]
+ },
+ {
+  "tile": 8,
+  "time": 45,
+  "password": "",
+  "board": [
+   ".XX.X.X.XX.",
+   "XX..X.X..XX",
+   "X..XXXXX..X",
+   "..X.....X..",
+   "XXX.....XXX",
+   "..X.....X..",
+   "XXX.....XXX",
+   "..X.....X..",
+   "X..XXXXX..X",
+   "XX..X.X..XX",
+   ".XX.X.X.XX."
+  ]
+ },
+ {
+  "tile": 1,
+  "time": 55,
+  "password": "COOLSTAR",
+  "board": [
+   ".XXX.X.XXX.",
+   "XXX.....XXX",
+   "XX.XX.XX.XX",
+   "X.X..X..X.X",
+   "..X.....X..",
+   "X..X...X..X",
+   "..X.....X..",
+   "X.X..X..X.X",
+   "XX.XX.XX.XX",
+   "XXX.....XXX",
+   ".XXX.X.XXX."
+  ]
+ },
+ {
+  "tile": 2,
+  "time": 40,
+  "password": "",
+  "board": [
+   "..X.X.X.X..",
+   ".XX.....XX.",
+   "X..XX.XX..X",
+   "...........",
+   ".XX.....XX.",
+   "X.XX...XX.X",
+   ".XX.....XX.",
+   "...........",
+   "X..XX.XX..X",
+   ".XX.....XX.",
+   "..X.X.X.X.."
+  ]
+ },
+ {
+  "tile": 3,
+  "time": 45,
+  "password": "",
+  "board": [
+   ".XXXXXXXXX.",
+   "...........",
+   ".XXXXXXXXX.",
+   "...........",
+   "XX.XX.XX.XX",
+   "X.XXXXXXX.X",
+   "XX.XX.XX.XX",
+   "...........",
+   ".XXXXXXXXX.",
+   "...........",
+   ".XXXXXXXXX."
+  ]
+ },
+ {
+  "tile": 4,
+  "time": 35,
+  "password": "",
+  "board": [
+   "X..........",
+   ".X.........",
+   "..X........",
+   "...X.......",
+   "....X...XXX",
+   "......XXX.X",
+   "......XXX.X",
+   "....X...XXX",
+   "...X.......",
+   "..X........",
+   "XX........."
+  ]
+ },
+ {
+  "tile": 5,
+  "time": 30,
+  "password": "",
+  "board": [
+   ".XXXXXXXXXX",
+   "XXXXXXXXX.X",
+   ".........XX",
+   "XXXXXXXXX.X",
+   "XXXXXXXXXXX",
+   "X.XXXXXXXXX",
+   "XX.........",
+   "X.XXXXXXXXX",
+   "XXXXXXXXXXX",
+   ".........XX",
+   ".XXXXXXXXXX"
+  ]
+ },
+ {
+  "tile": 6,
+  "time": 55,
+  "password": "NODRUGS",
+  "board": [
+   "XX..X.X..XX",
+   "X..X...X..X",
+   "..X..X..X..",
+   ".X..X.X..X.",
+   "X..X...X..X",
+   "..X.....X..",
+   "X..X...X..X",
+   ".X..X.X..X.",
+   "..X..X..X..",
+   "X..X...X..X",
+   "XX..X.X..XX"
+  ]
+ },
+ {
+  "tile": 7,
+  "time": 40,
+  "password": "",
+  "board": [
+   ".X.......X.",
+   "X.XX...XX.X",
+   ".X...X...X.",
+   "....XXX....",
+   "XXXXX.XXXXX",
+   "..X.XXX.X..",
+   "XXXXX.XXXXX",
+   "....XXX....",
+   ".X...X...X.",
+   "X.XX...XX.X",
+   ".X.......X."
+  ]
+ },
+ {
+  "tile": 8,
+  "time": 30,
+  "password": "",
+  "board": [
+   "....XXX....",
+   "...X...X...",
+   "....X.X....",
+   "....X.X....",
+   "..X.X.X.X..",
+   "..X.....X..",
+   "...X.X.X...",
+   "....XXX....",
+   "...XXXXX...",
+   "...X.X.X...",
+   "....X.X...."
+  ]
+ },
+ {
+  "tile": 1,
+  "time": 55,
+  "password": "",
+  "board": [
+   "XXX..X..XXX",
+   "...XXXXX...",
+   "XXX.X.X.XXX",
+   "....X.X....",
+   "XXXXX.XXXXX",
+   "....X.X....",
+   "XXX.X.X.XXX",
+   "...XX.XX...",
+   "XXX.X.X.XXX",
+   "....XXX....",
+   "XXXX.X.XXXX"
+  ]
+ },
+ {
+  "tile": 2,
+  "time": 35,
+  "password": "",
+  "board": [
+   "X.........X",
+   ".X.......X.",
+   "..X.....X..",
+   "...XX.XX...",
+   "..X..X..X..",
+   ".X...X...X.",
+   "..X..X..X..",
+   "...XX.XX...",
+   "..X.....X..",
+   ".X.......X.",
+   "X.........X"
+  ]
+ },
+ {
+  "tile": 3,
+  "time": 50,
+  "password": "ETERNITY",
+  "board": [
+   "X....X....X",
+   ".X..XXX..X.",
+   "..XX...XX..",
+   "..X..X..X..",
+   ".X..XXX..X.",
+   "XX.XX.XX.XX",
+   ".X..XXX..X.",
+   "..X..X..X..",
+   "..XX...XX..",
+   ".X..XXX..X.",
+   "X....X....X"
+  ]
+ },
+ {
+  "tile": 4,
+  "time": 70,
+  "password": "",
+  "board": [
+   "XXXX...XXXX",
+   "X..XX.XX..X",
+   "X.X..X..X.X",
+   "X.XX...XX.X",
+   "X.X.....X.X",
+   "X.X.....X.X",
+   "X.XX...XX.X",
+   "X.X.....X.X",
+   "X....X....X",
+   "XXX.X.X.XXX",
+   "XXXXX.XXXXX"
+  ]
+ },
+ {
+  "tile": 5,
+  "time": 50,
+  "password": "",
+  "board": [
+   ".XX.....XX.",
+   "X..X...X..X",
+   "X...XXX...X",
+   ".X...X...X.",
+   "..X..X..X..",
+   "..XXX.XXX..",
+   "..X..X..X..",
+   ".X...X...X.",
+   "X...XXX...X",
+   "X..X...X..X",
+   ".XX.....XX."
+  ]
+ },
+ {
+  "tile": 6,
+  "time": 75,
+  "password": "",
+  "board": [
+   "XX.XX.XX.XX",
+   "...........",
+   "XX.XX.XX.XX",
+   ".X.X.X.X.X.",
+   "...........",
+   "...X.X.X...",
+   "...........",
+   ".X.X.X.X.X.",
+   "XX.XX.XX.XX",
+   "...........",
+   "XX.XX.XX.XX"
+  ]
+ },
+ {
+  "tile": 7,
+  "time": 40,
+  "password": "",
+  "board": [
+   ".....X.....",
+   "X...X.X...X",
+   "X.X.X.X.X.X",
+   ".....X.....",
+   ".X..X.X..X.",
+   ".X..X.X..X.",
+   ".....X.....",
+   "X.X.X.X.X.X",
+   "X...X.X...X",
+   ".....X.....",
+   "..........."
+  ]
+ },
+ {
+  "tile": 8,
+  "time": 35,
+  "password": "QUALITY",
+  "board": [
+   "XXX.X.X.XXX",
+   "...X...X...",
+   "XX..X.X..XX",
+   "...X.X.X...",
+   "X...X.X...X",
+   "XXX.XXX.XXX",
+   "X...X.X...X",
+   "...X.X.X...",
+   "XX..X.X..XX",
+   "...X...X...",
+   "XXX.X.X.XXX"
+  ]
+ },
+ {
+  "tile": 1,
+  "time": 45,
+  "password": "",
+  "board": [
+   "X.........X",
+   "...X...X...",
+   "..X..X..X..",
+   ".X.XXXXX.X.",
+   "...XX.XX...",
+   "..XX.X.XX..",
+   "...XX.XX...",
+   ".X.XXXXX.X.",
+   "..X..X..X..",
+   "...X...X...",
+   "X.........X"
+  ]
+ },
+ {
+  "tile": 2,
+  "time": 40,
+  "password": "",
+  "board": [
+   "X...X.X...X",
+   ".X..X.X..X.",
+   "..X.....X..",
+   "...XXXXX...",
+   "XX.XX.XX.XX",
+   "...X.X.X...",
+   "XX.XX.XX.XX",
+   "...XXXXX...",
+   "..X.....X..",
+   ".X..X.X..X.",
+   "X...X.X...X"
+  ]
+ },
+ {
+  "tile": 3,
+  "time": 60,
+  "password": "",
+  "board": [
+   "...XX.XX...",
+   "XX.......XX",
+   "X..X...X..X",
+   "X...X.X...X",
+   ".XX.X.X.XX.",
+   "...........",
+   ".XX.X.X.XX.",
+   "X...X.X...X",
+   "X..X...X..X",
+   "XX.......XX",
+   "...XX.XX..."
+  ]
+ },
+ {
+  "tile": 4,
+  "time": 35,
+  "password": "",
+  "board": [
+   "........XX.",
+   ".......X...",
+   ".....XX....",
+   "X.XX..X..X.",
+   "X...X...XXX",
+   "X.XX.......",
+   "X.XX....X.X",
+   "X...X...X.X",
+   "X.XX..X..X.",
+   ".X....X....",
+   "XXX.XXXXX.."
+  ]
+ },
+ {
+  "tile": 5,
+  "time": 50,
+  "password": "GRAVITY",
+  "board": [
+   "X...XXX...X",
+   ".X.......X.",
+   "..X.X.X.X..",
+   "...XX.XX...",
+   "X.XXX.XXX.X",
+   "X....X....X",
+   "X.XXX.XXX.X",
+   "...XX.XX...",
+   "..X.X.X.X..",
+   ".X.......X.",
+   "X...XXX...X"
+  ]
+ },
+ {
+  "tile": 6,
+  "time": 40,
+  "password": "",
+  "board": [
+   "..XX.X.XX..",
+   "...........",
+   ".X.XX.XX.X.",
+   "X....X....X",
+   ".X.......X.",
+   "..X.....X..",
+   ".X.......X.",
+   "X....X....X",
+   ".X.XX.XX.X.",
+   "...........",
+   "..XX.X.XX.."
+  ]
+ },
+ {
+  "tile": 7,
+  "time": 75,
+  "password": "",
+  "board": [
+   "XXXXXXXXXXX",
+   "XX.X.X.X..X",
+   "X.X.X.X..X.",
+   "XX.X.X..X.X",
+   "X.X.X..X..X",
+   "XX.X..X..X.",
+   "X.X..X..X.X",
+   "XX..X..X..X",
+   "X..X..X..X.",
+   "X.X..X..X.X",
+   "XX.XX.XX.XX"
+  ]
+ },
+ {
+  "tile": 8,
+  "time": 90,
+  "password": "",
+  "board": [
+   "..XXX.XXX..",
+   ".XX..X..XX.",
+   "..XXX.XXX..",
+   "X....X....X",
+   "...........",
+   "...........",
+   "...........",
+   "..XX.X.XX..",
+   "...........",
+   "..XXX.XXX..",
+   "...X.X.X..."
+  ]
+ },
+ {
+  "tile": 1,
+  "time": 75,
+  "password": "",
+  "board": [
+   "XXXXXXXXXXX",
+   "XXXXXXXXXXX",
+   "XX.......XX",
+   "XX.X.X.X.XX",
+   "XX.......XX",
+   "XX.X.X.X.XX",
+   "XX.......XX",
+   "XX.X.X.X.XX",
+   "XX.......XX",
+   "XXXXXXXXXXX",
+   "XXXXXXXXXXX"
+  ]
+ },
+ {
+  "tile": 2,
+  "time": 60,
+  "password": "GLEAM",
+  "board": [
+   "...........",
+   "....XXX....",
+   "...XXXXX...",
+   "...XX.XX...",
+   "...XXXXX...",
+   "X...X.X...X",
+   "X.X.X.X.X.X",
+   "...XXXXX...",
+   "X...XXX...X",
+   "....XXX....",
+   "..XX...XX.."
+  ]
+ },
+ {
+  "tile": 3,
+  "time": 65,
+  "password": "",
+  "board": [
+   "X.XXXXXXX.X",
+   ".X.XXXXX.X.",
+   "X.X..X..X.X",
+   "XX.XX.XX.XX",
+   "XX.X...X.XX",
+   "XXX.....XXX",
+   "XX.X...X.XX",
+   "XX.XX.XX.XX",
+   "X.X..X..X.X",
+   ".X.XXXXX.X.",
+   "X.XXXXXXX.X"
+  ]
+ },
+ {
+  "tile": 4,
+  "time": 95,
+  "password": "",
+  "board": [
+   "...........",
+   "..X..X.....",
+   ".X....X....",
+   ".......X...",
+   "........XX.",
+   ".X.........",
+   "..X....XXX.",
+   "..XXX..XX..",
+   "..X....XX..",
+   ".X....X....",
+   "X...XX....."
+  ]
+ },
+ {
+  "tile": 5,
+  "time": 50,
+  "password": "",
+  "board": [
+   "XXXXX.XXXXX",
+   "X..XX.XX..X",
+   "X..X...X..X",
+   "X..XX.XX..X",
+   "X..XX.XX..X",
+   "X..X...X..X",
+   "X..XX.XX..X",
+   "X..XX.XX..X",
+   "X..X...X..X",
+   "X..XX.XX..X",
+   "XXXXX.XXXXX"
+  ]
+ },
+ {
+  "tile": 6,
+  "time": 65,
+  "password": "",
+  "board": [
+   "XXXXXXXXXXX",
+   "X.........X",
+   ".XXXXXXXXX.",
+   "X.........X",
+   "XXXXXXXXXXX",
+   "...........",
+   "XXXXXXXXXXX",
+   "X.........X",
+   ".XXXXXXXXX.",
+   "X.........X",
+   "XXXXXXXXXXX"
+  ]
+ },
+ {
+  "tile": 7,
+  "time": 30,
+  "password": "SPECIES",
+  "board": [
+   ".....X.....",
+   "....XXX....",
+   "....X.X....",
+   "...X.X.X...",
+   "...X...X...",
+   "..X.XXX.X..",
+   "..X.....X..",
+   ".X.XXXXX.X.",
+   ".XX.....XX.",
+   "..X.....X..",
+   "...XX.XX..."
+  ]
+ },
+ {
+  "tile": 8,
+  "time": 40,
+  "password": "",
+  "board": [
+   "...X.X.X...",
+   "....X.X....",
+   "...XXXXX...",
+   "..XXXXXXX..",
+   "...XXXXX...",
+   "...X.X.X...",
+   "...XXXXX...",
+   "..XXXXXXX..",
+   "...XXXXX...",
+   "....X.X....",
+   "...X.X.X..."
+  ]
+ },
+ {
+  "tile": 1,
+  "time": 45,
+  "password": "",
+  "board": [
+   ".X.X.XXX.XX",
+   "X..X..X...X",
+   "...........",
+   "XX..X.X..XX",
+   "...XX.XXX..",
+   "XX.......XX",
+   "..XXX.XX...",
+   "XX..X.X..XX",
+   "....X......",
+   "X..X.X.X..X",
+   "XX.X.X.X.X."
+  ]
+ },
+ {
+  "tile": 2,
+  "time": 95,
+  "password": "",
+  "board": [
+   "....X.X.XX.",
+   "..X..XXXX.X",
+   "..XX...X...",
+   "..XX...XX..",
+   "XXXX..X....",
+   "....XXXX...",
+   "X..X....X..",
+   "X.X.X..X...",
+   "X....X..XX.",
+   "X.X.XX.X..X",
+   ".XX.X.....X"
+  ]
+ },
+ {
+  "tile": 3,
+  "time": 45,
+  "password": "",
+  "board": [
+   "..X.....X..",
+   "...X...X...",
+   "X.X..X..X.X",
+   ".X.......X.",
+   "..X.....X..",
+   "...........",
+   "..X.....X..",
+   ".X.......X.",
+   "X.X..X..X.X",
+   "...X...X...",
+   "..X.....X.."
+  ]
+ },
+ {
+  "tile": 4,
+  "time": 65,
+  "password": "BLUELINE",
+  "board": [
+   "X.........X",
+   "XXXX.X.XXXX",
+   "XXXX...XXXX",
+   "XXXXX.XXXXX",
+   "XX.......XX",
+   "XXXXX.XXXXX",
+   "XXXX...XXXX",
+   "XXXX.X.XXXX",
+   "XX.......XX",
+   "XXX.....XXX",
+   "X.........X"
+  ]
+ },
+ {
+  "tile": 5,
+  "time": 35,
+  "password": "",
+  "board": [
+   "XX.......XX",
+   "XXX.....XXX",
+   ".XXX...XXX.",
+   "..XXXX.XX..",
+   "...XXX.....",
+   "....XXXX...",
+   ".....XXX...",
+   "......XXX..",
+   ".......XXX.",
+   "........XXX",
+   ".........XX"
+  ]
+ },
+ {
+  "tile": 6,
+  "time": 30,
+  "password": "",
+  "board": [
+   "XXXXXXXXXX.",
+   "X.XXXXXXXXX",
+   "XX.........",
+   "XX.........",
+   "XX..XXXXXXX",
+   "XX.X.XXXXXX",
+   "XX..XXXXX.X",
+   "XX.......XX",
+   "XX.......XX",
+   "X.XXXXXXX.X",
+   "XXXXXXXXXXX"
+  ]
+ },
+ {
+  "tile": 7,
+  "time": 30,
+  "password": "",
+  "board": [
+   "XXXXXXXXXXX",
+   "X.XXXXXXX.X",
+   "XX.......XX",
+   "XX.......XX",
+   "XXXXXXXXXXX",
+   "X..XXXXX..X",
+   "XXXXXXXXXXX",
+   "XX.......XX",
+   "XX.......XX",
+   "XX.......XX",
+   ".X.......X."
+  ]
+ },
+ {
+  "tile": 8,
+  "time": 30,
+  "password": "",
+  "board": [
+   ".XXXXXXXXX.",
+   "XXXXX.XXXXX",
+   "....X.X....",
+   "....XXX....",
+   "....XXX....",
+   "....XXX....",
+   "....XXX....",
+   "....XXX....",
+   "....XXX....",
+   "....XXX....",
+   "....X.X...."
+  ]
+ },
+ {
+  "tile": 1,
+  "time": 30,
+  "password": "STARGATE",
+  "board": [
+   "XXXXXXXXXX.",
+   "X.XXXXXXXXX",
+   "XX.........",
+   "XX.........",
+   "XXXXXXX....",
+   "X..XXX.X...",
+   "XXXXXXX....",
+   "XX.........",
+   "XX.........",
+   "X.XXXXXXXXX",
+   "XXXXXXXXXX."
+  ]
+ },
+ {
+  "tile": 2,
+  "time": 40,
+  "password": "",
+  "board": [
+   ".XX.....XX.",
+   "..X.....X..",
+   ".XX..X..XX.",
+   "..X..X..X..",
+   "...........",
+   "...........",
+   ".....X.....",
+   "....XXX....",
+   "...XXXXX...",
+   "...X.X.X...",
+   "....X.X...."
+  ]
+ },
+ {
+  "tile": 3,
+  "time": 40,
+  "password": "",
+  "board": [
+   ".....X.....",
+   "....X.X....",
+   "...X.X.X...",
+   ".XXXXXXXXX.",
+   "..X.....X..",
+   "...XX.XX...",
+   "..X.....X..",
+   ".XXXXXXXXX.",
+   "...X.X.X...",
+   "....X.X....",
+   ".....X....."
+  ]
+ },
+ {
+  "tile": 4,
+  "time": 50,
+  "password": "",
+  "board": [
+   "X.........X",
+   ".X.......X.",
+   "..X.....X..",
+   "...X.X.X...",
+   "XXX.....XXX",
+   ".X.......X.",
+   "..XXXXXXX..",
+   ".X..X.X..X.",
+   "XXXX...XXXX",
+   "...XX.XX...",
+   "...X...X..."
+  ]
+ },
+ {
+  "tile": 5,
+  "time": 40,
+  "password": "",
+  "board": [
+   "XXXXXXXXXXX",
+   "X.XXXXXX..X",
+   "XX......X.X",
+   "XX.....X.XX",
+   "XX....X..XX",
+   "XX...X...XX",
+   "XX..X....XX",
+   "XX.X.....XX",
+   "X.X......XX",
+   "X..XXXXXX.X",
+   "XXXXXXXXXXX"
+  ]
+ },
+ {
+  "tile": 6,
+  "time": 70,
+  "password": "MYSTERY",
+  "board": [
+   ".XX..X..XX.",
+   "XXXXX.XXXXX",
+   "XXXXX.XXXXX",
+   ".XX.....XX.",
+   ".XX..X..XX.",
+   "X...X.X...X",
+   ".XX..X..XX.",
+   ".XX.....XX.",
+   "XXXXX.XXXXX",
+   "XXXXX.XXXXX",
+   ".XX..X..XX."
+  ]
+ },
+ {
+  "tile": 7,
+  "time": 60,
+  "password": "",
+  "board": [
+   "...XX.XX...",
+   "..XX.X.XX..",
+   ".X.XXXXX.X.",
+   "XXX.X.X.XXX",
+   "X.XX...XX.X",
+   ".XX..X..XX.",
+   "X.XX...XX.X",
+   "XXX.X.X.XXX",
+   ".X.XXXXX.X.",
+   "..XX.X.XX..",
+   "...XX.XX..."
+  ]
+ },
+ {
+  "tile": 8,
+  "time": 45,
+  "password": "",
+  "board": [
+   ".X.......X.",
+   "X.X.....X.X",
+   ".X.X...X.X.",
+   "..X.X.X.X..",
+   "...X.X.X...",
+   "....XXX....",
+   "...X.X.X...",
+   "..X.X.X.X..",
+   ".X.X...X.X.",
+   "X.X.....X.X",
+   ".X.......X."
+  ]
+ },
+ {
+  "tile": 1,
+  "time": 65,
+  "password": "",
+  "board": [
+   "XX...XX....",
+   "...........",
+   ".X.X.X.....",
+   "...........",
+   "...........",
+   "..XXX......",
+   "X.....X....",
+   "X.....X....",
+   "...........",
+   ".X.X.X.....",
+   "...X......."
+  ]
+ },
+ {
+  "tile": 2,
+  "time": 70,
+  "password": "",
+  "board": [
+   "..X.....X..",
+   ".X.XX.XX.X.",
+   "X.XXXXXXX.X",
+   ".XX.XXX.XX.",
+   ".XXX.X.XXX.",
+   "..XXX.XXX..",
+   ".XXX.X.XXX.",
+   ".XX.XXX.XX.",
+   "X.XXXXXXX.X",
+   ".X.XX.XX.X.",
+   "..X.....X.."
+  ]
+ },
+ {
+  "tile": 3,
+  "time": 80,
+  "password": "EVILSHOT",
+  "board": [
+   "XXX..X..XXX",
+   "XXX.X.X.XXX",
+   "XXX.XXX.XXX",
+   "..X.X.X.X..",
+   "X.XX...XX.X",
+   "X.X..X..X.X",
+   "X.XX...XX.X",
+   "..X.X.X.X..",
+   "XXX.XXX.XXX",
+   "XXX.X.X.XXX",
+   "XXX..X..XXX"
+  ]
+ },
+ {
+  "tile": 4,
+  "time": 60,
+  "password": "",
+  "board": [
+   "X.X.X.X.X.X",
+   "X.X.X.X.X.X",
+   "XXXXXXXXXXX",
+   "XX.X.X.X.XX",
+   ".XXXXXXXXX.",
+   ".XX.X.X.XX.",
+   "..XXXXXXX..",
+   "..XX.X.XX..",
+   "...XXXXX...",
+   "...XXXXX...",
+   ".....X....."
+  ]
+ },
+ {
+  "tile": 5,
+  "time": 85,
+  "password": "",
+  "board": [
+   ".XX.XXX.XX.",
+   "...X.X.X...",
+   "....X.X....",
+   "X..XXXXX..X",
+   "X.XX.X.XX.X",
+   ".X.XXXXX.X.",
+   "..X.X.X.X..",
+   ".XXXXXXXXX.",
+   "XX.X.X.X.XX",
+   "XXXXXXXXXXX",
+   "X.X.X.X.X.X"
+  ]
+ },
+ {
+  "tile": 6,
+  "time": 30,
+  "password": "",
+  "board": [
+   "X..........",
+   ".X...X..X..",
+   "..XXX....X.",
+   "...X......X",
+   "...X......X",
+   "X..........",
+   "X......X...",
+   ".X.....X...",
+   "..X...XXX..",
+   "...XXX...X.",
+   "....X.....X"
+  ]
+ },
+ {
+  "tile": 7,
+  "time": 40,
+  "password": "",
+  "board": [
+   "..X.XXX.X..",
+   "...XX.XX...",
+   ".....X.....",
+   "...XX.XX...",
+   "...XXXXX...",
+   "..X.....X..",
+   "...XXXXX...",
+   "...XX.XX...",
+   ".....X.....",
+   "...XX.XX...",
+   "..X.XXX.X.."
+  ]
+ },
+ {
+  "tile": 8,
+  "time": 55,
+  "password": "THEFINAL",
+  "board": [
+   "X.XX...XX.X",
+   "..XX...XX..",
+   "XXX.XXX.XXX",
+   "XX.......XX",
+   "..X.....X..",
+   "..X.....X..",
+   "..X.....X..",
+   "XX.......XX",
+   "XXX.XXX.XXX",
+   "..XX...XX..",
+   "X.XX...XX.X"
+  ]
+ },
+ {
+  "tile": 1,
+  "time": 60,
+  "password": "",
+  "board": [
+   "...X...X...",
+   "...XX.XX...",
+   "..XX...XX..",
+   "XXXXXXXXXXX",
+   ".X.X...X.X.",
+   "...X.X.X...",
+   ".X.X...X.X.",
+   "XXXXXXXXXXX",
+   "..XX...XX..",
+   "...XX.XX...",
+   "...X...X..."
+  ]
+ },
+ {
+  "tile": 2,
+  "time": 40,
+  "password": "",
+  "board": [
+   ".X.X...X.X.",
+   "X.XX...XX.X",
+   ".XX.....XX.",
+   "XX.X.X.X.XX",
+   "....X.X....",
+   "...X.X.X...",
+   "....X.X....",
+   "XX.X.X.X.XX",
+   ".XX.....XX.",
+   "X.XX...XX.X",
+   ".X.X...X.X."
+  ]
+ },
+ {
+  "tile": 3,
+  "time": 65,
+  "password": "",
+  "board": [
+   "XX.......XX",
+   "X.XX...XX.X",
+   "X..XX.XX..X",
+   "XX.......XX",
+   "...........",
+   ".XX.X.X.XX.",
+   "...........",
+   "XX.......XX",
+   "X..XX.XX..X",
+   "X.XX...XX.X",
+   "XX.......XX"
+  ]
+ },
+ {
+  "tile": 6,
+  "time": 95,
+  "password": "",
+  "board": [
+   "X..X.X.X..X",
+   ".X.X.X.X.X.",
+   "X..XXXXX..X",
+   "XXXXXXXXXXX",
+   "XX.XXXXX.XX",
+   "XX.X.X.X.XX",
+   "XX.XXXXX.XX",
+   "XX.X.X.X.XX",
+   "XX..XXX..XX",
+   ".XXX.X.XXX.",
+   "..XXXXXXX.."
+  ]
+ }
+]
